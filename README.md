@@ -64,7 +64,7 @@ Me interesa crear proyectos funcionales que resuelvan problemas reales, desde he
 
 Juego tipo clicker con minijuegos desarrollado en una game jam, con enfoque narrativo y toma de decisiones bajo presión.
 🔗 Repo: [https://github.com/SrSenior/LAGS-Game-Jam]
-🎮 Jugar: []
+🎮 Jugar: [https://mingihours.itch.io/undiamas-game]
 
 ---
 
@@ -72,7 +72,7 @@ Juego tipo clicker con minijuegos desarrollado en una game jam, con enfoque narr
 
 Juego de puzzles tipo clicker basado en toma de decisiones entre opciones con lógica y generación aleatoria.
 🔗 Repo: [https://github.com/SrSenior/opportunity]
-🎮 Jugar: [https://mingihours.itch.io/undiamas-game]
+🎮 Jugar: [https://sr-senior.itch.io/opportunity-the-phone-man]
 
 ---
 
