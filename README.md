@@ -23,19 +23,19 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 <td width="50%" valign="top">
 
 ### 💻 Lenguajes
-- Java (lógica y estructuras)
-- C#
-- JavaScript
-- Python
+- Java  
+- C#  
+- JavaScript  
+- Python  
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web
-- HTML, CSS, JS
-- APIs REST
-- Formularios
-- Accesibilidad
+- HTML, CSS, JS  
+- APIs REST  
+- Formularios  
+- Accesibilidad  
 
 </td>
 </tr>
@@ -44,19 +44,19 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 <td width="50%" valign="top">
 
 ### 🎮 Videojuegos
-- Unity (2D)
-- Mecánicas
-- Física
-- Game Jams
+- Unity (2D)  
+- Mecánicas  
+- Física  
+- Game Jams  
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend
-- APIs REST
-- Manejo de datos
-- XML / JSON
-- Validaciones
+- APIs REST  
+- Manejo de datos  
+- XML / JSON  
+- Validaciones  
 
 </td>
 </tr>
@@ -65,15 +65,15 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 <td width="50%" valign="top">
 
 ### 🔧 Herramientas
-- Git & GitHub
-- Visual Studio
-- Unity Editor
+- Git & GitHub  
+- Visual Studio  
+- Unity Editor  
 
 </td>
 <td width="50%" valign="top">
 </td>
 </tr>
-</table>r
+</table>
 
 ---
 
