@@ -16,6 +16,15 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 ---
 
+## 🧩 Áreas de interés
+
+- Desarrollo backend y APIs
+- Herramientas y automatización
+- Desarrollo de videojuegos
+- Aplicaciones centradas en el usuario
+
+---
+
 ## 🛠️ Tecnologías y habilidades
 
 <table width="100%">
@@ -26,7 +35,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 - Java  
 - C#  
 - JavaScript  
-- Python  
+- Python (experiencia académica)
 <br>
 
 </td>
@@ -35,7 +44,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 ### 🌐 Web
 - HTML, CSS, JS  
 - APIs REST  
-- Formularios  
+- Manejo de formularios y validación de datos  
 - Accesibilidad  
 <br>
 
@@ -48,7 +57,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 ### 🎮 Videojuegos
 - Unity (2D)  
 - Mecánicas  
-- Física  
+- Físicas y colisiones  
 - Game Jams  
 <br>
 
@@ -166,4 +175,4 @@ Actualmente enfocado en:
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/SrSenior  
+- GitHub: [@SrSenior](https://github.com/SrSenior)
