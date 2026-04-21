@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, mi nombre es José Pablo Vega Solano
 
 Soy desarrollador con enfoque en la construcción de soluciones prácticas, combinando desarrollo web, lógica de programación y desarrollo de videojuegos.
@@ -10,6 +8,7 @@ Me interesa crear proyectos funcionales que resuelvan problemas reales, desde he
 
 ## 🚀 Sobre mí
 
+* 🎓 Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México
 * 🧠 Enfocado en desarrollo de software y aprendizaje continuo
 * 🌎 Originario de Costa Rica, actualmente viviendo en México
 * 🥋 Cinturón negro en judo y campeón nacional en Costa Rica
@@ -64,31 +63,31 @@ Me interesa crear proyectos funcionales que resuelvan problemas reales, desde he
 #### **Un Día Más**
 
 Juego tipo clicker con minijuegos desarrollado en una game jam, con enfoque narrativo y toma de decisiones bajo presión.
-🔗 Repo: [LINK_GITHUB]
-🎮 Jugar: [LINK_ITCH.IO]
+🔗 Repo: [https://github.com/SrSenior/LAGS-Game-Jam]
+🎮 Jugar: []
 
 ---
 
 #### **Opportunity**
 
 Juego de puzzles tipo clicker basado en toma de decisiones entre opciones con lógica y generación aleatoria.
-🔗 Repo: [LINK_GITHUB]
-🎮 Jugar: [LINK_ITCH.IO]
+🔗 Repo: [https://github.com/SrSenior/opportunity]
+🎮 Jugar: [https://mingihours.itch.io/undiamas-game]
 
 ---
 
 #### **La Odisea del Hámster**
 
 Juego de plataformas 2D donde el jugador controla un hámster que intenta escapar de un sistema de alcantarillado.
-🔗 Repo: [LINK_GITHUB]
-🎮 Jugar: [LINK_ITCH.IO]
+🔗 Repo: [https://github.com/rooseveltalej/proyecto2]
+🎮 Jugar: [https://rooseveltaleja.itch.io/la-odisea-del-hamster]
 
 ---
 
 #### **Asteroids Clone**
 
 Recreación del clásico juego Asteroids, enfocada en mecánicas básicas y control del jugador.
-🎮 Jugar: [LINK_ITCH.IO]
+🎮 Jugar: [https://sr-senior.itch.io/asteroids-clone]
 
 ---
 
@@ -98,7 +97,7 @@ Recreación del clásico juego Asteroids, enfocada en mecánicas básicas y cont
 
 Clon de portal institucional enfocado en accesibilidad para usuarios con discapacidad visual.
 Incluye integración con REST API y validación con usuario real.
-🔗 Repo: [LINK_GITHUB]
+🔗 Repo: [https://github.com/eacortesm/equiparacion-oportunidades]
 
 ---
 
@@ -107,7 +106,7 @@ Incluye integración con REST API y validación con usuario real.
 #### **KenKen Game (Java)**
 
 Implementación del juego lógico KenKen con generación dinámica de tableros a partir de archivos XML.
-🔗 Repo: [LINK_GITHUB]
+🔗 Repo: [https://github.com/SrSenior/KenKen]
 
 ---
 
@@ -123,8 +122,7 @@ Actualmente enfocado en:
 
 ## 📫 Contacto
 
-* GitHub: [TU_USUARIO]
-* LinkedIn: [OPCIONAL]
+* GitHub: [https://github.com/SrSenior]
 
 
 <!--
