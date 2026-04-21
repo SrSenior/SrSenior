@@ -63,31 +63,31 @@ Me interesa crear proyectos funcionales que resuelvan problemas reales, desde he
 #### **Un Día Más**
 
 Juego tipo clicker con minijuegos desarrollado en una game jam, con enfoque narrativo y toma de decisiones bajo presión.
-🔗 Repo: [https://github.com/SrSenior/LAGS-Game-Jam]
-🎮 Jugar: [https://mingihours.itch.io/undiamas-game]
+🔗 Repo: [Ver repositorio](https://github.com/SrSenior/LAGS-Game-Jam)
+🎮 Jugar: [Probar en Itch.io](https://mingihours.itch.io/undiamas-game)
 
 ---
 
 #### **Opportunity**
 
 Juego de puzzles tipo clicker basado en toma de decisiones entre opciones con lógica y generación aleatoria.
-🔗 Repo: [https://github.com/SrSenior/opportunity]
-🎮 Jugar: [https://sr-senior.itch.io/opportunity-the-phone-man]
+🔗 Repo: [Ver repositorio](https://github.com/SrSenior/opportunity)
+🎮 Jugar: [Probar en Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
 
 ---
 
 #### **La Odisea del Hámster**
 
 Juego de plataformas 2D donde el jugador controla un hámster que intenta escapar de un sistema de alcantarillado.
-🔗 Repo: [https://github.com/rooseveltalej/proyecto2]
-🎮 Jugar: [https://rooseveltaleja.itch.io/la-odisea-del-hamster]
+🔗 Repo: [Ver repositorio](https://github.com/rooseveltalej/proyecto2)
+🎮 Jugar: [Probar en Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
 
 ---
 
 #### **Asteroids Clone**
 
 Recreación del clásico juego Asteroids, enfocada en mecánicas básicas y control del jugador.
-🎮 Jugar: [https://sr-senior.itch.io/asteroids-clone]
+🎮 Jugar: [Probar en Itch.io](https://sr-senior.itch.io/asteroids-clone)
 
 ---
 
@@ -97,7 +97,7 @@ Recreación del clásico juego Asteroids, enfocada en mecánicas básicas y cont
 
 Clon de portal institucional enfocado en accesibilidad para usuarios con discapacidad visual.
 Incluye integración con REST API y validación con usuario real.
-🔗 Repo: [https://github.com/eacortesm/equiparacion-oportunidades]
+🔗 Repo: [Ver repositorio](https://github.com/eacortesm/equiparacion-oportunidades)
 
 ---
 
@@ -106,7 +106,7 @@ Incluye integración con REST API y validación con usuario real.
 #### **KenKen Game (Java)**
 
 Implementación del juego lógico KenKen con generación dinámica de tableros a partir de archivos XML.
-🔗 Repo: [https://github.com/SrSenior/KenKen]
+🔗 Repo: [Ver repositorio](https://github.com/SrSenior/KenKen)
 
 ---
 
@@ -122,20 +122,4 @@ Actualmente enfocado en:
 
 ## 📫 Contacto
 
-* GitHub: [https://github.com/SrSenior]
-
-
-<!--
-**SrSenior/SrSenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* GitHub: [Visitar perfil](https://github.com/SrSenior)
