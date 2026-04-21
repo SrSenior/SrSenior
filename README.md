@@ -5,14 +5,14 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-🎓 Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México  
-🧠 Enfocado en desarrollo y aprendizaje continuo  
-🌎 Originario de Costa Rica, viviendo actualmente en México  
-🥋 Cinturón negro en judo y campeón nacional de Costa Rica  
-👥 Experiencia colaborando y coordinando equipos  
-🐾 Me apasionan el deporte, la tecnología, los videojuegos y los animales  
+* Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México  
+* Enfocado en desarrollo y aprendizaje continuo  
+* Originario de Costa Rica, viviendo actualmente en México  
+* Cinturón negro en judo y campeón nacional de Costa Rica  
+* Experiencia colaborando y coordinando equipos  
+* Me apasionan el deporte, la tecnología, los videojuegos y los animales  
 
 ---
 
@@ -97,7 +97,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 ### 🎮 Juegos
 
-#### 🎮 Un Día Más  
+#### Un Día Más  
 Juego narrativo tipo clicker desarrollado en una game jam, enfocado en decisiones bajo presión.
 
 🔹 Mecánicas: minijuegos + narrativa  
@@ -108,7 +108,7 @@ Juego narrativo tipo clicker desarrollado en una game jam, enfocado en decisione
 
 ---
 
-#### 🎮 Opportunity  
+#### Opportunity  
 Juego de puzzles tipo clicker con toma de decisiones y generación aleatoria.
 
 🔹 Mecánicas: lógica + decisiones  
@@ -119,7 +119,7 @@ Juego de puzzles tipo clicker con toma de decisiones y generación aleatoria.
 
 ---
 
-#### 🎮 La Odisea del Hámster  
+#### La Odisea del Hámster  
 Juego de plataformas 2D con enfoque en control del jugador y progresión.
 
 🔹 Mecánicas: plataformas clásicas  
@@ -130,7 +130,7 @@ Juego de plataformas 2D con enfoque en control del jugador y progresión.
 
 ---
 
-#### 🎮 Asteroids Clone  
+#### Asteroids Clone  
 Recreación del clásico Asteroids enfocada en físicas y control del jugador.
 
 🔹 Mecánicas: arcade clásico  
@@ -142,7 +142,7 @@ Recreación del clásico Asteroids enfocada en físicas y control del jugador.
 
 ### 🌐 Desarrollo Web
 
-#### 🌐 Portal Accesible Universitario  
+#### Portal Accesible Universitario  
 Clon de portal institucional enfocado en accesibilidad para usuarios con discapacidad visual.
 
 🔹 Enfoque: accesibilidad (a11y)  
@@ -154,7 +154,7 @@ Clon de portal institucional enfocado en accesibilidad para usuarios con discapa
 
 ### 💻 Otros
 
-#### 💻 KenKen Game (Java)  
+#### KenKen Game (Java)  
 Implementación del juego lógico KenKen con generación dinámica de tableros.
 
 🔹 Enfoque: lógica + generación desde XML  
@@ -163,7 +163,7 @@ Implementación del juego lógico KenKen con generación dinámica de tableros.
 
 ---
 
-## 🎯 En qué estoy trabajando
+## En qué estoy trabajando
 
 Actualmente enfocado en:
 
