@@ -10,7 +10,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 🎓 Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México  
 🧠 Enfocado en desarrollo y aprendizaje continuo  
 🌎 Originario de Costa Rica, viviendo actualmente en México  
-🥋 Cinturón negro en judo y campeón nacional de Costa Rica
+🥋 Cinturón negro en judo y campeón nacional de Costa Rica  
 👥 Experiencia colaborando y coordinando equipos  
 🐾 Me apasionan el deporte, la tecnología, los videojuegos y los animales  
 
