@@ -18,9 +18,9 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 ## 🛠️ Tecnologías y habilidades
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Lenguajes
 - Java (lógica y estructuras)
@@ -29,7 +29,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 - Python
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Web
 - HTML, CSS, JS
@@ -41,7 +41,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🎮 Videojuegos
 - Unity (2D)
@@ -50,7 +50,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 - Game Jams
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 - APIs REST
@@ -62,7 +62,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🔧 Herramientas
 - Git & GitHub
@@ -70,7 +70,7 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 - Unity Editor
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>r
