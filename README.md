@@ -1,58 +1,50 @@
-# 👋 Hola, mi nombre es José Pablo Vega Solano
+# 👋 Hola, soy José Pablo Vega Solano
 
-Soy desarrollador con enfoque en la construcción de soluciones prácticas, combinando desarrollo web, lógica de programación y desarrollo de videojuegos.
-
-Me interesa crear proyectos funcionales que resuelvan problemas reales, desde herramientas de automatización hasta experiencias interactivas en videojuegos.
+Desarrollador enfocado en crear soluciones prácticas y experiencias interactivas, desde aplicaciones web hasta videojuegos en Unity.
+Me interesa construir proyectos funcionales que resuelvan problemas reales, combinando lógica, APIs y diseño centrado en el usuario.
 
 ---
 
 ## 🚀 Sobre mí
 
-* 🎓 Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México
-* 🧠 Enfocado en desarrollo de software y aprendizaje continuo
-* 🌎 Originario de Costa Rica, actualmente viviendo en México
-* 🥋 Cinturón negro en judo y campeón nacional en Costa Rica
-* 🗣️ Buenas habilidades de comunicación y trabajo en equipo
-* 👥 Experiencia coordinando y colaborando en proyectos
-* 🐾 Apasionado por los animales y el deporte
+🎓 Estudiante de software (Instituto Tecnológico de Costa Rica → UANL, intercambio en México)  
+🧠 Enfocado en desarrollo y aprendizaje continuo  
+🌎 Costa Rica → actualmente en México  
+🥋 Cinturón negro en judo y campeón nacional  
+👥 Experiencia colaborando y coordinando equipos  
+🐾 Interesado en deporte, tecnología y proyectos con impacto  
 
 ---
 
 ## 🛠️ Tecnologías y habilidades
 
 ### 💻 Lenguajes
-
-* Java
-* C#
-* JavaScript
-* Python (experiencia académica)
+- **Java** → lógica y estructuras (proyectos académicos)
+- **C#** → desarrollo de videojuegos en Unity
+- **JavaScript** → frontend y consumo de APIs
+- **Python** → uso académico y scripting
 
 ### 🌐 Desarrollo Web
-
-* HTML5, CSS3, JavaScript (vanilla)
-* Consumo e integración de REST APIs
-* Manejo de formularios y lógica frontend
-* Accesibilidad web (a11y)
+- HTML5, CSS3, JavaScript (vanilla)
+- Consumo e integración de APIs REST
+- Manejo de formularios y lógica frontend
+- Accesibilidad web (a11y)
 
 ### 🎮 Desarrollo de Videojuegos
-
-* Unity (2D)
-* C#
-* Implementación de mecánicas de juego
-* Sistemas de interacción y físicas
-* Desarrollo en entornos de tiempo limitado (Game Jams)
+- Unity (2D)
+- Diseño e implementación de mecánicas
+- Sistemas de interacción y físicas
+- Desarrollo en entornos de tiempo limitado (Game Jams)
 
 ### ⚙️ Backend / Otros
-
-* Diseño e integración de APIs REST
-* Manejo de datos y estructuras
-* Trabajo con archivos (XML, JSON)
-* Lógica de negocio y validaciones
+- Diseño e integración de APIs REST
+- Manejo de datos y estructuras
+- Trabajo con XML y JSON
+- Lógica de negocio y validaciones
 
 ### 🔧 Herramientas
-
-* Git & GitHub
-* Visual Studio / NetBeans / Unity Editor
+- Git & GitHub
+- Visual Studio / NetBeans / Unity Editor
 
 ---
 
@@ -60,53 +52,69 @@ Me interesa crear proyectos funcionales que resuelvan problemas reales, desde he
 
 ### 🎮 Juegos
 
-#### **Un Día Más**
+#### 🎮 Un Día Más  
+Juego narrativo tipo clicker desarrollado en una game jam, enfocado en decisiones bajo presión.
 
-Juego tipo clicker con minijuegos desarrollado en una game jam, con enfoque narrativo y toma de decisiones bajo presión.
-🔗 Repo: [Ver repositorio](https://github.com/SrSenior/LAGS-Game-Jam)
-🎮 Jugar: [Probar en Itch.io](https://mingihours.itch.io/undiamas-game)
+🔹 Mecánicas: minijuegos + narrativa  
+🔹 Enfoque: toma de decisiones  
 
----
-
-#### **Opportunity**
-
-Juego de puzzles tipo clicker basado en toma de decisiones entre opciones con lógica y generación aleatoria.
-🔗 Repo: [Ver repositorio](https://github.com/SrSenior/opportunity)
-🎮 Jugar: [Probar en Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
+🔗 [Repositorio](https://github.com/SrSenior/LAGS-Game-Jam)  
+🎮 [Jugar en Itch.io](https://mingihours.itch.io/undiamas-game)
 
 ---
 
-#### **La Odisea del Hámster**
+#### 🎮 Opportunity  
+Juego de puzzles tipo clicker con toma de decisiones y generación aleatoria.
 
-Juego de plataformas 2D donde el jugador controla un hámster que intenta escapar de un sistema de alcantarillado.
-🔗 Repo: [Ver repositorio](https://github.com/rooseveltalej/proyecto2)
-🎮 Jugar: [Probar en Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+🔹 Mecánicas: lógica + decisiones  
+🔹 Enfoque: rejugabilidad  
+
+🔗 [Repositorio](https://github.com/SrSenior/opportunity)  
+🎮 [Jugar en Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
 
 ---
 
-#### **Asteroids Clone**
+#### 🎮 La Odisea del Hámster  
+Juego de plataformas 2D con enfoque en control del jugador y progresión.
 
-Recreación del clásico juego Asteroids, enfocada en mecánicas básicas y control del jugador.
-🎮 Jugar: [Probar en Itch.io](https://sr-senior.itch.io/asteroids-clone)
+🔹 Mecánicas: plataformas clásicas  
+🔹 Enfoque: diseño de niveles  
+
+🔗 [Repositorio](https://github.com/rooseveltalej/proyecto2)  
+🎮 [Jugar en Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+
+---
+
+#### 🎮 Asteroids Clone  
+Recreación del clásico Asteroids enfocada en físicas y control del jugador.
+
+🔹 Mecánicas: arcade clásico  
+🔹 Enfoque: fundamentos de gameplay  
+
+🎮 [Jugar en Itch.io](https://sr-senior.itch.io/asteroids-clone)
 
 ---
 
 ### 🌐 Desarrollo Web
 
-#### **Portal Accesible Universitario**
-
+#### 🌐 Portal Accesible Universitario  
 Clon de portal institucional enfocado en accesibilidad para usuarios con discapacidad visual.
-Incluye integración con REST API y validación con usuario real.
-🔗 Repo: [Ver repositorio](https://github.com/eacortesm/equiparacion-oportunidades)
+
+🔹 Enfoque: accesibilidad (a11y)  
+🔹 Tecnologías: frontend + API REST  
+
+🔗 [Repositorio](https://github.com/eacortesm/equiparacion-oportunidades)
 
 ---
 
 ### 💻 Otros
 
-#### **KenKen Game (Java)**
+#### 💻 KenKen Game (Java)  
+Implementación del juego lógico KenKen con generación dinámica de tableros.
 
-Implementación del juego lógico KenKen con generación dinámica de tableros a partir de archivos XML.
-🔗 Repo: [Ver repositorio](https://github.com/SrSenior/KenKen)
+🔹 Enfoque: lógica + generación desde XML  
+
+🔗 [Repositorio](https://github.com/SrSenior/KenKen)
 
 ---
 
@@ -114,12 +122,12 @@ Implementación del juego lógico KenKen con generación dinámica de tableros a
 
 Actualmente enfocado en:
 
-* Mejorar mi portafolio con proyectos más completos
-* Desarrollo de herramientas prácticas con Node.js
-* Profundizar en integración de APIs y manejo de datos
+- Construir proyectos más completos (full-stack)
+- Desarrollo de herramientas prácticas con Node.js
+- Profundizar en integración de APIs y manejo de datos
 
 ---
 
 ## 📫 Contacto
 
-* GitHub: [Visitar perfil](https://github.com/SrSenior)
+- GitHub: https://github.com/SrSenior  
