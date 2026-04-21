@@ -18,33 +18,62 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 ## 🛠️ Tecnologías y habilidades
 
+<table>
+<tr>
+<td valign="top">
+
 ### 💻 Lenguajes
-- **Java** → lógica y estructuras (proyectos académicos)
-- **C#** → desarrollo de videojuegos en Unity
-- **JavaScript** → frontend y consumo de APIs
-- **Python** → uso académico y scripting
+- Java (lógica y estructuras)
+- C#
+- JavaScript
+- Python
 
-### 🌐 Desarrollo Web
-- HTML5, CSS3, JavaScript (vanilla)
-- Consumo e integración de APIs REST
-- Manejo de formularios y lógica frontend
-- Accesibilidad web (a11y)
+</td>
+<td valign="top">
 
-### 🎮 Desarrollo de Videojuegos
+### 🌐 Web
+- HTML, CSS, JS
+- APIs REST
+- Formularios
+- Accesibilidad
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🎮 Videojuegos
 - Unity (2D)
-- Diseño e implementación de mecánicas
-- Sistemas de interacción y físicas
-- Desarrollo en entornos de tiempo limitado (Game Jams)
+- Mecánicas
+- Física
+- Game Jams
 
-### ⚙️ Backend / Otros
-- Diseño e integración de APIs REST
-- Manejo de datos y estructuras
-- Trabajo con XML y JSON
-- Lógica de negocio y validaciones
+</td>
+<td valign="top">
+
+### ⚙️ Backend
+- APIs REST
+- Manejo de datos
+- XML / JSON
+- Validaciones
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🔧 Herramientas
 - Git & GitHub
-- Visual Studio / NetBeans / Unity Editor
+- Visual Studio
+- Unity Editor
+
+</td>
+<td valign="top">
+</td>
+</tr>
+</table>r
 
 ---
 
