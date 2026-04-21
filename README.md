@@ -21,7 +21,6 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 ### 💻 Lenguajes
 - Java  
 - C#  
@@ -30,7 +29,6 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 </td>
 <td width="50%" valign="top">
-
 ### 🌐 Web
 - HTML, CSS, JS  
 - APIs REST  
@@ -42,7 +40,6 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 <tr>
 <td width="50%" valign="top">
-
 ### 🎮 Videojuegos
 - Unity (2D)  
 - Mecánicas  
@@ -51,7 +48,6 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 </td>
 <td width="50%" valign="top">
-
 ### ⚙️ Backend
 - APIs REST  
 - Manejo de datos  
@@ -63,7 +59,6 @@ Me interesa construir proyectos funcionales que resuelvan problemas reales, comb
 
 <tr>
 <td width="50%" valign="top">
-
 ### 🔧 Herramientas
 - Git & GitHub  
 - Visual Studio  
