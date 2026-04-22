@@ -108,6 +108,8 @@ Arcade-style game focused on physics and controls.
 Accessible university portal for visually impaired users.  
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-REST-blue)
 
 🔗 [Repo](https://github.com/eacortesm/equiparacion-oportunidades)
