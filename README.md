@@ -21,18 +21,37 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 ---
 
-## 💻 Tech I Use
-*(tools I’ve actually worked with — always learning more)*
+## 💻 Technologies & Most Used Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+<table>
+<tr>
+<td width="55%" valign="top">
 
+**Tech I Use**  
+<sub>tools I’ve actually worked with — always learning more</sub>
+
+<br>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+<td width="45%" align="center" valign="top">
+
+**Most Used Languages**  
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
@@ -45,9 +64,6 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
   <img src="https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
-</p>
 <br>
 
 ---
