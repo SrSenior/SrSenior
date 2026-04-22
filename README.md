@@ -56,6 +56,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 </tr>
 </table>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -157,4 +158,4 @@ Logic puzzle with dynamic board generation.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=SrSenior&icon=2&color=3)](https://visitcount.itsvg.in)
+**Contact:** jpvega1907@gmail.com
