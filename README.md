@@ -9,7 +9,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 🫶 Focused on growing as a developer and building more complete projects  
 🌱 Learning full-stack development, APIs, and how to turn ideas into real tools  
 💬 Ask me about Unity, game jams, APIs, or project ideas  
-⚡ Black belt in judo and national champion from Costa Rica — discipline carries over to code 🥋  
+⚡ Fun fact: I'm Black belt in judo and national champion from Costa Rica — discipline carries over to code 🥋  
 
 ---
 
