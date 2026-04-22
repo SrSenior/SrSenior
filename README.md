@@ -54,14 +54,79 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|--------|------------|------|------|
-| 🎮 **Un Día Más** | Narrative clicker game focused on decision-making under pressure | Unity | [Repo](https://github.com/SrSenior/LAGS-Game-Jam) · [Play](https://mingihours.itch.io/undiamas-game) |
-| 🎮 **Opportunity** | Puzzle clicker with choices and random generation (replayability) | Unity | [Repo](https://github.com/SrSenior/opportunity) · [Play](https://sr-senior.itch.io/opportunity-the-phone-man) |
-| 🎮 **Hamster Odyssey** | 2D platformer focused on player control and level design | Unity | [Repo](https://github.com/rooseveltalej/proyecto2) · [Play](https://rooseveltaleja.itch.io/la-odisea-del-hamster) |
-| 🎮 **Asteroids Clone** | Classic arcade recreation focused on physics and controls | Unity | [Play](https://sr-senior.itch.io/asteroids-clone) |
-| 🌐 **Accessible Portal** | University portal clone focused on accessibility (a11y) | Web + API | [Repo](https://github.com/eacortesm/equiparacion-oportunidades) |
-| 💻 **KenKen (Java)** | Logic puzzle with dynamic board generation from XML | Java | [Repo](https://github.com/SrSenior/KenKen) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Un Día Más  
+Narrative clicker game focused on decision-making under pressure.  
+Blends small mechanics with storytelling to simulate stressful choices.
+
+**Tech:** Unity  
+🔗 [Repository](https://github.com/SrSenior/LAGS-Game-Jam)  
+🎮 [Play on Itch.io](https://mingihours.itch.io/undiamas-game)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Opportunity  
+Puzzle-based clicker with random generation and player decisions.  
+Designed with replayability and experimentation in mind.
+
+**Tech:** Unity  
+🔗 [Repository](https://github.com/SrSenior/opportunity)  
+🎮 [Play on Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Hamster Odyssey  
+2D platformer focused on player control and level progression.  
+Emphasis on game feel and level design fundamentals.
+
+**Tech:** Unity  
+🔗 [Repository](https://github.com/rooseveltalej/proyecto2)  
+🎮 [Play on Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Asteroids Clone  
+Classic arcade recreation focused on physics and controls.  
+Built to strengthen gameplay fundamentals.
+
+**Tech:** Unity  
+🎮 [Play on Itch.io](https://sr-senior.itch.io/asteroids-clone)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Accessible Portal  
+University portal clone focused on accessibility (a11y).  
+Designed for users with visual impairments.
+
+**Tech:** Web + API  
+🔗 [Repository](https://github.com/eacortesm/equiparacion-oportunidades)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 KenKen (Java)  
+Logic puzzle game with dynamic board generation from XML.  
+Focus on problem-solving and data handling.
+
+**Tech:** Java  
+🔗 [Repository](https://github.com/SrSenior/KenKen)
+
+</td>
+</tr>
+</table>
 
 ---
 
