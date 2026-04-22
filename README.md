@@ -41,7 +41,7 @@ I like building things that actually *do something* — whether that’s a small
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SrSenior](https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
