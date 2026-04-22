@@ -47,7 +47,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 **Most Used Languages**  
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" width="100%"/>
 
 </td>
 </tr>
