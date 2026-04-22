@@ -1,14 +1,15 @@
 # 💫 About Me
 
-Hey! I’m José 👋  
-I like building things that actually *do something* — whether that’s a small tool, a web app, or a game.
+Hey! I’m José 👋 — I enjoy building things and figuring out how stuff works. I got into development because of video games, so game dev has a special place for me (you can check my itch.io page [here](https://itch.io/profile/sr-senior) :)  ) , but I also like creating useful tools and real-world solutions.
 
-🔭 Currently working on projects that mix creativity, logic, and real-world usefulness  
-🤝 Open to collaborating with people who enjoy building, sharing ideas, and learning together  
-🫶 Always trying to grow as a developer and understand how to build better, more complete projects  
-🌱 Learning more about full-stack development, APIs, and turning ideas into real tools  
-💬 Ask me about Unity, game jams, APIs, or random project ideas  
-⚡ Fun fact: I’m a black belt in judo and a national champion from Costa Rica — discipline carries over to code too 🥋  
+Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy talking, sharing ideas, and helping people whenever I can. If there’s something to improve or build, I’m probably already thinking about it.
+
+🔭 Currently working on projects that combine creativity, logic, and real-world usefulness  
+🤝 Open to collaborating with people who enjoy building and sharing ideas  
+🫶 Focused on growing as a developer and building more complete projects  
+🌱 Learning full-stack development, APIs, and how to turn ideas into real tools  
+💬 Ask me about Unity, game jams, APIs, or project ideas  
+⚡ Black belt in judo and national champion from Costa Rica — discipline carries over to code 🥋  
 
 ---
 
@@ -48,6 +49,7 @@ I like building things that actually *do something* — whether that’s a small
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
 </p>
 <br>
+
 ---
 
 ## 🏆 Extras
