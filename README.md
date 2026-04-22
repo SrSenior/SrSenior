@@ -23,6 +23,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 ## 💻 Technologies & Most Used Languages
 
+<p align="center">
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -45,26 +46,36 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 </td>
 <td width="45%" align="center" valign="top">
 
-**Most Used Languages**  
+**Most Used Languages**
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" width="100%"/>
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" height="165"/>
 
 </td>
 </tr>
 </table>
+</p>
 ---
 
 ## 📊 GitHub Stats
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&include_all_commits=true&count_private=true" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false" />
-</p>
+<table>
+<tr>
+<td>
 
-<br>
+<img src="https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&include_all_commits=true&count_private=true" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false" />
+
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
