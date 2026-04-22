@@ -50,7 +50,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 <br>
 
-<img src="/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/>
 
 </td>
 </tr>
