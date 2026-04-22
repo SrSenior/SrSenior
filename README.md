@@ -52,8 +52,16 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 
 ---
 
-## 🏆 Extras
-![](https://github-profile-trophy.vercel.app/?username=SrSenior&theme=radical&no-frame=true&no-bg=true)
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|--------|------------|------|------|
+| 🎮 **Un Día Más** | Narrative clicker game focused on decision-making under pressure | Unity | [Repo](https://github.com/SrSenior/LAGS-Game-Jam) · [Play](https://mingihours.itch.io/undiamas-game) |
+| 🎮 **Opportunity** | Puzzle clicker with choices and random generation (replayability) | Unity | [Repo](https://github.com/SrSenior/opportunity) · [Play](https://sr-senior.itch.io/opportunity-the-phone-man) |
+| 🎮 **Hamster Odyssey** | 2D platformer focused on player control and level design | Unity | [Repo](https://github.com/rooseveltalej/proyecto2) · [Play](https://rooseveltaleja.itch.io/la-odisea-del-hamster) |
+| 🎮 **Asteroids Clone** | Classic arcade recreation focused on physics and controls | Unity | [Play](https://sr-senior.itch.io/asteroids-clone) |
+| 🌐 **Accessible Portal** | University portal clone focused on accessibility (a11y) | Web + API | [Repo](https://github.com/eacortesm/equiparacion-oportunidades) |
+| 💻 **KenKen (Java)** | Logic puzzle with dynamic board generation from XML | Java | [Repo](https://github.com/SrSenior/KenKen) |
 
 ---
 
