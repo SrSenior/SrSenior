@@ -35,11 +35,18 @@ I like building things that actually *do something* — whether that’s a small
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&hide_border=false&include_all_commits=true&count_private=true) <br>
-</div>
-![](https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false)<br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&theme=default&hide_border=false&layout=compact)<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SrSenior" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
+</p>
 
 ---
 
