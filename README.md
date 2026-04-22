@@ -58,24 +58,22 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Un Día Más  
-Narrative clicker game focused on decision-making under pressure.  
-Blends small mechanics with storytelling to simulate stressful choices.
+**🎮 Un Día Más**  
+Narrative clicker focused on decision-making under pressure.  
 
-**Tech:** Unity  
-🔗 [Repository](https://github.com/SrSenior/LAGS-Game-Jam)  
-🎮 [Play on Itch.io](https://mingihours.itch.io/undiamas-game)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+
+🔗 [Repo](https://github.com/SrSenior/LAGS-Game-Jam) · 🎮 [Play](https://mingihours.itch.io/undiamas-game)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Opportunity  
-Puzzle-based clicker with random generation and player decisions.  
-Designed with replayability and experimentation in mind.
+**🎮 Opportunity**  
+Puzzle clicker with randomness and replayability.  
 
-**Tech:** Unity  
-🔗 [Repository](https://github.com/SrSenior/opportunity)  
-🎮 [Play on Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+
+🔗 [Repo](https://github.com/SrSenior/opportunity) · 🎮 [Play](https://sr-senior.itch.io/opportunity-the-phone-man)
 
 </td>
 </tr>
@@ -83,23 +81,22 @@ Designed with replayability and experimentation in mind.
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Hamster Odyssey  
-2D platformer focused on player control and level progression.  
-Emphasis on game feel and level design fundamentals.
+**🎮 Hamster Odyssey**  
+2D platformer focused on control and level design.  
 
-**Tech:** Unity  
-🔗 [Repository](https://github.com/rooseveltalej/proyecto2)  
-🎮 [Play on Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+
+🔗 [Repo](https://github.com/rooseveltalej/proyecto2) · 🎮 [Play](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Asteroids Clone  
-Classic arcade recreation focused on physics and controls.  
-Built to strengthen gameplay fundamentals.
+**🎮 Asteroids Clone**  
+Arcade-style game focused on physics and controls.  
 
-**Tech:** Unity  
-🎮 [Play on Itch.io](https://sr-senior.itch.io/asteroids-clone)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+
+🎮 [Play](https://sr-senior.itch.io/asteroids-clone)
 
 </td>
 </tr>
@@ -107,22 +104,23 @@ Built to strengthen gameplay fundamentals.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Accessible Portal  
-University portal clone focused on accessibility (a11y).  
-Designed for users with visual impairments.
+**🌐 Accessible Portal**  
+Accessible university portal for visually impaired users.  
 
-**Tech:** Web + API  
-🔗 [Repository](https://github.com/eacortesm/equiparacion-oportunidades)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![API](https://img.shields.io/badge/API-REST-blue)
+
+🔗 [Repo](https://github.com/eacortesm/equiparacion-oportunidades)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 KenKen (Java)  
-Logic puzzle game with dynamic board generation from XML.  
-Focus on problem-solving and data handling.
+**💻 KenKen (Java)**  
+Logic puzzle with dynamic board generation.  
 
-**Tech:** Java  
-🔗 [Repository](https://github.com/SrSenior/KenKen)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+🔗 [Repo](https://github.com/SrSenior/KenKen)
 
 </td>
 </tr>
