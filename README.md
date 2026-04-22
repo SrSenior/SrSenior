@@ -59,7 +59,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 ---
 
 ## 📊 GitHub Stats
-
+-# I'll be a pro on this section, mark my words
 <p align="center">
 <table>
 <tr>
