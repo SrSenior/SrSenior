@@ -35,7 +35,7 @@ I like building things that actually *do something* — whether that’s a small
 ---
 
 ## 📊 GitHub Stats
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&include_all_commits=true&count_private=true" />
 </p>
@@ -47,7 +47,7 @@ I like building things that actually *do something* — whether that’s a small
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&layout=compact" />
 </p>
-
+<br>
 ---
 
 ## 🏆 Extras
