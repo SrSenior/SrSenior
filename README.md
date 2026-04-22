@@ -1,178 +1,49 @@
-# 👋 Hola, soy José Pablo Vega Solano
+# 💫 About Me
 
-Desarrollador enfocado en crear soluciones prácticas y experiencias interactivas, desde aplicaciones web hasta videojuegos en Unity.
-Me interesa construir proyectos funcionales que resuelvan problemas reales, combinando lógica, APIs y diseño centrado en el usuario.
+Hey! I’m José 👋  
+I like building things that actually *do something* — whether that’s a small tool, a web app, or a game.
 
----
-
-## Sobre mí
-
-* Inicié mi formación en el Instituto Tecnológico de Costa Rica y actualmente continúo mis estudios en la UANL como estudiante de intercambio en México  
-* Enfocado en desarrollo y aprendizaje continuo  
-* Originario de Costa Rica, viviendo actualmente en México  
-* Cinturón negro en judo y campeón nacional de Costa Rica  
-* Experiencia colaborando y coordinando equipos  
-* Me apasionan el deporte, la tecnología, los videojuegos y los animales  
+🔭 Currently working on projects that mix creativity, logic, and real-world usefulness  
+🤝 Open to collaborating with people who enjoy building, sharing ideas, and learning together  
+🫶 Always trying to grow as a developer and understand how to build better, more complete projects  
+🌱 Learning more about full-stack development, APIs, and turning ideas into real tools  
+💬 Ask me about Unity, game jams, APIs, or random project ideas  
+⚡ Fun fact: I’m a black belt in judo and a national champion from Costa Rica — discipline carries over to code too 🥋  
 
 ---
 
-## 🧩 Áreas de interés
-
-- Desarrollo backend y APIs
-- Herramientas y automatización
-- Desarrollo de videojuegos
-- Aplicaciones centradas en el usuario
-
----
-
-## 🛠️ Tecnologías y habilidades
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  
-### 💻 Lenguajes
-- Java  
-- C#  
-- JavaScript  
-- Python (experiencia académica)
-<br>
-
-</td>
-<td width="50%" valign="top">
-  
-### 🌐 Web
-- HTML, CSS, JS  
-- APIs REST  
-- Manejo de formularios y validación de datos  
-- Accesibilidad  
-<br>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-  
-### 🎮 Videojuegos
-- Unity (2D)  
-- Mecánicas  
-- Físicas y colisiones  
-- Game Jams  
-<br>
-
-</td>
-<td width="50%" valign="top">
-  
-### ⚙️ Backend
-- APIs REST  
-- Manejo de datos  
-- XML / JSON  
-- Validaciones  
-<br>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-  
-### 🔧 Herramientas
-- Git & GitHub  
-- Visual Studio  
-- Unity Editor  
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-  <br>
-</td>
-</tr>
-</table>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sr_senior04) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jos%C3%A9-Pablo-Vega-Solano) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sr_Senor27) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpvega1907@gmail.com) 
 
 ---
 
-## 📌 Proyectos destacados
+## 💻 Tech I Use
+*(tools I’ve actually worked with — always learning more)*
 
-### 🎮 Juegos
-
-#### Un Día Más  
-Juego narrativo tipo clicker desarrollado en una game jam, enfocado en decisiones bajo presión.
-
-🔹 Mecánicas: minijuegos + narrativa  
-🔹 Enfoque: toma de decisiones  
-
-🔗 [Repositorio](https://github.com/SrSenior/LAGS-Game-Jam)  
-🎮 [Jugar en Itch.io](https://mingihours.itch.io/undiamas-game)
-
----
-
-#### Opportunity  
-Juego de puzzles tipo clicker con toma de decisiones y generación aleatoria.
-
-🔹 Mecánicas: lógica + decisiones  
-🔹 Enfoque: rejugabilidad  
-
-🔗 [Repositorio](https://github.com/SrSenior/opportunity)  
-🎮 [Jugar en Itch.io](https://sr-senior.itch.io/opportunity-the-phone-man)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
 
 ---
 
-#### La Odisea del Hámster  
-Juego de plataformas 2D con enfoque en control del jugador y progresión.
-
-🔹 Mecánicas: plataformas clásicas  
-🔹 Enfoque: diseño de niveles  
-
-🔗 [Repositorio](https://github.com/rooseveltalej/proyecto2)  
-🎮 [Jugar en Itch.io](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=SrSenior&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=SrSenior&theme=default&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SrSenior&theme=default&hide_border=false&layout=compact)
 
 ---
 
-#### Asteroids Clone  
-Recreación del clásico Asteroids enfocada en físicas y control del jugador.
-
-🔹 Mecánicas: arcade clásico  
-🔹 Enfoque: fundamentos de gameplay  
-
-🎮 [Jugar en Itch.io](https://sr-senior.itch.io/asteroids-clone)
+## 🏆 Extras
+![](https://github-profile-trophy.vercel.app/?username=SrSenior&theme=radical&no-frame=true&no-bg=true)
 
 ---
 
-### 🌐 Desarrollo Web
-
-#### Portal Accesible Universitario  
-Clon de portal institucional enfocado en accesibilidad para usuarios con discapacidad visual.
-
-🔹 Enfoque: accesibilidad (a11y)  
-🔹 Tecnologías: frontend + API REST  
-
-🔗 [Repositorio](https://github.com/eacortesm/equiparacion-oportunidades)
-
----
-
-### 💻 Otros
-
-#### KenKen Game (Java)  
-Implementación del juego lógico KenKen con generación dinámica de tableros.
-
-🔹 Enfoque: lógica + generación desde XML  
-
-🔗 [Repositorio](https://github.com/SrSenior/KenKen)
-
----
-
-## En qué estoy trabajando
-
-Actualmente enfocado en:
-
-- Construir proyectos más completos (full-stack)
-- Desarrollo de herramientas prácticas con Node.js
-- Profundizar en integración de APIs y manejo de datos
-
----
-
-## 📫 Contacto
-
-- GitHub: [@SrSenior](https://github.com/SrSenior)
+[![](https://komarev.com/ghpvc/?username=SrSenior&icon=2&color=3)](https://visitcount.itsvg.in)
