@@ -86,22 +86,22 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 <tr>
 <td width="50%" valign="top">
 
-**🎮 Un Día Más**  
-Narrative clicker focused on decision-making under pressure.  
+**🎮 Un Día Más**
+Narrative clicker focused on decision-making under pressure.
 
-![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat\&logo=csharp\&logoColor=white)
 
 🔗 [Repo](https://github.com/rooseveltalej/LAGS-Game-Jam) · 🎮 [Play](https://mingihours.itch.io/undiamas-game)
 
 </td>
 <td width="50%" valign="top">
 
-**🎮 Opportunity**  
-Puzzle clicker with randomness and replayability.  
+**🎮 Opportunity**
+Puzzle clicker with randomness and replayability.
 
-![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat\&logo=csharp\&logoColor=white)
 
 🔗 [Repo](https://github.com/SrSenior/opportunity) · 🎮 [Play](https://sr-senior.itch.io/opportunity-the-phone-man)
 
@@ -111,30 +111,54 @@ Puzzle clicker with randomness and replayability.
 <tr>
 <td width="50%" valign="top">
 
-**🎮 Hamster Odyssey**  
-2D platformer focused on control and level design.  
+**🎮 Asteroids Clone**
+Arcade-style game focused on physics and controls.
 
-![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat\&logo=csharp\&logoColor=white)
 
-🔗 [Repo](https://github.com/rooseveltalej/proyecto2) · 🎮 [Play](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
+🎮 [Play](https://sr-senior.itch.io/asteroids-clone)
 
 </td>
 <td width="50%" valign="top">
 
-**🎮 Asteroids Clone**  
-Arcade-style game focused on physics and controls.  
+**🌐 Accessible Portal**
+Accessible university portal for visually impaired users.
 
-![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![API](https://img.shields.io/badge/API-REST-blue)
 
-🎮 [Play](https://sr-senior.itch.io/asteroids-clone)
+🔗 [Repo](https://github.com/eacortesm/equiparacion-oportunidades)
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
+
+**💻 JOCOTE Transpiler**
+Custom programming language and transpiler built in Python, implementing a full compilation pipeline (lexer, parser, semantic analysis, and code generation).
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+
+🔗 [Repo](AQUÍ_TU_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+**💻 KenKen (Java)**
+Logic puzzle with dynamic board generation.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+
+🔗 [Repo](https://github.com/SrSenior/KenKen)
+
+</td>
+</tr>
+</table>
+
 
 **🌐 Accessible Portal**  
 Accessible university portal for visually impaired users.  
