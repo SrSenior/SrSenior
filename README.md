@@ -90,6 +90,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 Narrative clicker focused on decision-making under pressure.  
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 🔗 [Repo](https://github.com/rooseveltalej/LAGS-Game-Jam) · 🎮 [Play](https://mingihours.itch.io/undiamas-game)
 
@@ -100,6 +101,7 @@ Narrative clicker focused on decision-making under pressure.
 Puzzle clicker with randomness and replayability.  
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 🔗 [Repo](https://github.com/SrSenior/opportunity) · 🎮 [Play](https://sr-senior.itch.io/opportunity-the-phone-man)
 
@@ -113,6 +115,7 @@ Puzzle clicker with randomness and replayability.
 2D platformer focused on control and level design.  
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 🔗 [Repo](https://github.com/rooseveltalej/proyecto2) · 🎮 [Play](https://rooseveltaleja.itch.io/la-odisea-del-hamster)
 
@@ -123,6 +126,7 @@ Puzzle clicker with randomness and replayability.
 Arcade-style game focused on physics and controls.  
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
 🎮 [Play](https://sr-senior.itch.io/asteroids-clone)
 
