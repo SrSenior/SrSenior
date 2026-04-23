@@ -91,7 +91,7 @@ Narrative clicker focused on decision-making under pressure.
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
 
-🔗 [Repo](https://github.com/SrSenior/LAGS-Game-Jam) · 🎮 [Play](https://mingihours.itch.io/undiamas-game)
+🔗 [Repo](https://github.com/rooseveltalej/LAGS-Game-Jam) · 🎮 [Play](https://mingihours.itch.io/undiamas-game)
 
 </td>
 <td width="50%" valign="top">
