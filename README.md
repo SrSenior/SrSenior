@@ -7,7 +7,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 🔭 Currently working on projects that combine creativity, logic, and real-world usefulness  
 🤝 Open to collaborating with people who enjoy building and sharing ideas  
 🫶 Focused on growing as a developer and building more complete projects  
-🌱 Learning full-stack development, APIs, and how to turn ideas into real tools  
+🌱 Learning full-stack development, APIs, databases (MySQL/PostgreSQL/MongoBD), and how to turn ideas into real tools  
 💬 Ask me about Unity, game jams, APIs, or project ideas  
 ⚡ Fun fact: I'm Black belt in judo and national champion from Costa Rica — discipline carries over to code 🥋  
 
@@ -42,6 +42,7 @@ Outside of coding, I’m really into sports (especially judo 🥋), and I enjoy 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -97,14 +98,18 @@ Custom programming language and transpiler built in Python, implementing a full 
 <td width="50%" valign="top">
 
 **🌐 Accessible Portal**  
-Accessible university portal for visually impaired users.
+Accessible university portal for visually impaired users, fully deployed in production with a functional REST API and cloud database.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-REST-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Neon](https://img.shields.io/badge/Neon-00E599)
 
-🔗 [Repo](https://github.com/eacortesm/equiparacion-oportunidades)
+🔗 [Repo](https://github.com/eacortesm/equiparacion-oportunidades)  
+🌐 [Live Demo](https://equiparacion-oportunidades.vercel.app/)
 
 </td>
 </tr>
